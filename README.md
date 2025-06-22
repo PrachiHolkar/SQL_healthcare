@@ -58,4 +58,4 @@ This analysis aims to uncover **clinical patterns** in emergency care, medicatio
 
 ## 📫 Contact
 
-If you found this project insightful or want to collaborate, feel free to connect with me on [LinkedIn](https://www.linkedin.com/) or reach out via email (holkarprachi@hotmail.com)
+If you found this project insightful or want to collaborate, feel free to connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/prachi-holkar/) or reach out via email (holkarprachi@hotmail.com)
